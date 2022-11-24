@@ -16,7 +16,11 @@
     
 </div>
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="600" height="300"/>
+</div>
 
   ![](https://komarev.com/ghpvc/?username=sefako-tholo&label=PROFILE+VIEWS)
+:man_technologist:
 
-
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Johannesburg.

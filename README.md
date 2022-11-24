@@ -13,8 +13,10 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a-->
+    
 </div>
 </div>
-<img src="https://komarev.com/ghpvc/?sefako-tholo&style=flat-square&color=blue" alt=""/>
-</div>
-</div>
+
+  ![](https://komarev.com/ghpvc/?username=sefako-tholo&label=PROFILE+VIEWS)
+
+

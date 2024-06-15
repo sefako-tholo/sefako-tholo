@@ -5,13 +5,9 @@
 	<link rel="stylesheet" href="style.css">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
 	<link href=
-"https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap"
-		rel="stylesheet">
+"https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap" rel="stylesheet">
 	<!-- This is link of adding small images
 		which are used in the link section -->
-	<script src="https://kit.fontawesome.com/704ff50790.js"
-			crossorigin="anonymous">
-	</script>
 </head>
 
 <body>

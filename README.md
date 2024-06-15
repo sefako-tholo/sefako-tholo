@@ -13,7 +13,7 @@
 <body>
 	<div class="container">
 		<div class="user-image">
-			<img src=""
+			<img src="https://avatars.githubusercontent.com/u/15094041?v=4&size=40"
 				alt="this image contains user-image">
 		</div>
 		<div class="content">

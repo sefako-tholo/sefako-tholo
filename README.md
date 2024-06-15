@@ -7,6 +7,11 @@
 	<link href=
 "https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300&display=swap"
 		rel="stylesheet">
+	<!-- This is link of adding small images
+		which are used in the link section -->
+	<script src="https://kit.fontawesome.com/704ff50790.js"
+			crossorigin="anonymous">
+	</script>
 </head>
 
 <body>
@@ -38,11 +43,7 @@
 		</div>
 	</div>
 
-	<!-- This is link of adding small images
-		which are used in the link section -->
-	<script src="https://kit.fontawesome.com/704ff50790.js"
-			crossorigin="anonymous">
-	</script>
+	
 </body>
 
 </html>

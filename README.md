@@ -37,9 +37,6 @@
 			<p class="details">
 				My personal github page
 			</p>
-			<a class="effect effect-4" href="#">
-				Message
-			</a>
 		</div>
 	</div>
 
